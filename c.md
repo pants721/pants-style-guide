@@ -2,7 +2,7 @@
 
 ## General
 
-- Code should use `2` spaces for indents, *not* tabs.
+- Code should use `4` spaces for indents, *not* tabs.
 
 - Use `1` space between between keyword and opening bracket
 
